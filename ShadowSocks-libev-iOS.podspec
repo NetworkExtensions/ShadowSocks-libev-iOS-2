@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
 This pod wraps ShadowSocks-libev and contains all necessary dependencies to compile it for iOS.
                        DESC
 
-  s.homepage         = 'https://github.com/juvham/ShadowSocks-libev-iOS.git'
+  s.homepage         = 'https://github.com/NetworkExtensions/ShadowSocks-libev-iOS-2.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Benjamin Erhart' => 'juvham@foxmail.com' }
-  s.source           = { :git => 'https://github.com/juvham/ShadowSocks-libev-iOS.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://github.com/juvham/ShadowSocks-libev-iOS.git'
+  s.source           = { :git => 'https://github.com/NetworkExtensions/ShadowSocks-libev-iOS-2.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://github.com/NetworkExtensions/ShadowSocks-libev-iOS-2.git'
 
   s.platform = :ios
   s.ios.deployment_target = '10.2'

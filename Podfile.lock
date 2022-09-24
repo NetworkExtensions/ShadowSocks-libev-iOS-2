@@ -19,21 +19,21 @@ PODS:
   - ShadowSocks-libev-iOS/sodium (3.2.5)
 
 DEPENDENCIES:
-  - ShadowSocks-libev-iOS (from `https://github.com/juvham/ShadowSocks-libev-iOS.git`, tag `master`)
+  - ShadowSocks-libev-iOS (from `https://github.com/NetworkExtensions/ShadowSocks-libev-iOS-2.git`, tag `dev`)
 
 EXTERNAL SOURCES:
   ShadowSocks-libev-iOS:
-    :git: https://github.com/juvham/ShadowSocks-libev-iOS.git
-    :tag: master
+    :git: https://github.com/NetworkExtensions/ShadowSocks-libev-iOS-2.git
+    :tag: dev
 
 CHECKOUT OPTIONS:
   ShadowSocks-libev-iOS:
-    :git: https://github.com/juvham/ShadowSocks-libev-iOS.git
-    :tag: master
+    :git: https://github.com/NetworkExtensions/ShadowSocks-libev-iOS-2.git
+    :tag: dev
 
 SPEC CHECKSUMS:
-  ShadowSocks-libev-iOS: 6a71cdde89752cd491f7bfa7da859ec3509d5b1d
+  ShadowSocks-libev-iOS: 14f635962b69527b58af96e139a6b4b63ec4bf25
 
-PODFILE CHECKSUM: fc394f8a3beec7773e9476caa1abe402407fb40d
+PODFILE CHECKSUM: a8b2b437e4ec992e2ee9ca2d642eef72d41a9e01
 
-COCOAPODS: 1.6.1
+COCOAPODS: 1.10.2
